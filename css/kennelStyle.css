@@ -1,0 +1,117 @@
+/*Stylesheet for The Waggy Hostel*/
+/*Designed by Maggie*/
+/*2022*/
+/*Colours: */
+
+
+body {
+    background-color: #A09998;
+    font-family: Arial, Helvetica;
+    color: #FFFFFF;
+    margin: 0;
+}
+
+#header {
+    background-color: #311007;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#header img {
+    width: 66.6%;
+    max-width: 728px;   
+    margin: 0 auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+h1 {
+    text-align: left;
+    font-size: 1.5em;
+    color: #FFF5EC;
+    margin-left: 40px;
+    padding-top: 20px;
+    padding-bottom: 5px;
+}
+
+p {
+    text-align: left;
+    margin-left: 40px;
+    margin-right: 40px;
+    color: #FFF5EC;
+}
+
+.kennels {
+    font-weight: 700;
+    color: #FDF2E9;
+}
+
+figure {
+    width: auto display: inline-block;
+    border: 1px;
+    text-align: center;
+}
+
+figure img {
+    vertical-align: top;
+    text-align: center;
+}
+
+figure figcaption {
+    border: 1px;
+    font-size: 0.75em;
+    text-align: center;
+}
+
+.address {
+    color: #FBFCFC;
+    text-align: center;
+}
+
+nav {
+    text-align: center;
+    margin: 0 auto;
+    background-color: #E3C2B9;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    border-bottom: 5px solid #FFFFFF;
+}
+
+nav a {
+    font-size: 1.2em;
+    color: #64433A;
+    text-decoration: none
+}
+
+nav a:hover {
+    color: #C6E4BA;
+}
+
+.list {
+    margin-left: 80px;
+    margin-bottom: 20px;
+    text-align: left;  
+    border: none;
+}
+
+
+.dogpic1 {
+    width: 33.3%;
+    max-width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    display: block;
+    border: 2px solid #FFF5EC;
+}
+
+.dogpic2 {
+    width: 50%;
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border: 2px solid #FFF5EC;
+}
+
